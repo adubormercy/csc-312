@@ -1,0 +1,8 @@
+question  3
+Write a function to perform push operation on dynamically allocated stack containing real numbers
+solution
+#include
+int main()
+{
+
+}
